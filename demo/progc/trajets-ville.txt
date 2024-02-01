@@ -1,4 +1,3 @@
- ; 0 ; 0 
 AAST ; 201 ; 3 
 ABAINVILLE ; 133 ; 0 
 ABANCOURT ; 219 ; 6 
@@ -32559,5 +32558,3 @@ ZUDAUSQUES ; 19 ; 0
 ZUTKERQUE ; 68 ; 3 
 ZUYDCOOTE ; 24 ; 12 
 ZUYTPEENE ; 92 ; 6 
-€Ôg
-o ; 0 ; 0 
