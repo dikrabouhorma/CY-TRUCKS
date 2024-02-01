@@ -17,9 +17,14 @@ Les options possibles avec script.sh sont:
 - **[-s]** Statistiques sur les étapes *((EN COURS DE REALISATION))*
 
 ### Option [-d1] : Les 10 Conducteurs avec le plus de trajets
-'''
-./script.sh
-'''
+***Exécution :***
+```
+./script.sh data/data.csv -d1
+```
+***Durée du traitement :*** 2 secondes
+
+***Résultat :***
+
 ![Traitement_d1](demo/images/d1.png)
 
 
