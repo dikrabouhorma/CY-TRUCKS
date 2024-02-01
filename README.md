@@ -68,7 +68,7 @@ Les options possibles avec script.sh sont:
 Techniquement la partie AVL correcpondantes est en cours de réalisation. *(voir fichier statistiques.c)*
 
 ## Rapport
-Ci-joint le Rapport-CYTRUCKS.pdf qui contient tous le détail technique et fonctionnnels de ces traitements ainsi que les captures d'éxécutions.
+Ci-joint le ***Rapport.pdf*** qui contient tous le détail technique et fonctionnnels de ces traitements ainsi que les captures d'éxécutions.
 
 ### ⚠️⚠️ *Note* ⚠️⚠️
 Ajouter **data.csv** dans le dossier ***data*** pour faire les testes.
